@@ -20,7 +20,7 @@ I am an Eagle Scout and mechanical engineering undergraduate passionate about us
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 2.9/4.0 | Graduation: May, 2027
+  Graduation: May, 2027
 
 - **Woodlands High School**  
   *High School Diploma*  

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Benjamin Brown - Portfolio
+title: <Your Name> - Portfolio
 permalink: /projects/
 ---
 
