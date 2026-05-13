@@ -8,5 +8,5 @@ image: /assets/images/3780-robot.png
 
 Find all information in the pdf here:
 <object data="{{ '/assets/Mecha-Final-Report.pdf' | relative_url }}" type="application/pdf" width="100%" height="800">
-  <p>PDF not viewable. <a href="{{ '/assets/Mecha-Final-Report.pdf' | relative_url }}">Download the PDF</a>.</p>
+  <p> <a href="{{ '/assets/Mecha-Final-Report.pdf' | relative_url }}">Download the PDF</a>.</p>
 </object>
