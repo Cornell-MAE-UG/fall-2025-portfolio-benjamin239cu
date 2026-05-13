@@ -3,7 +3,7 @@ layout: project
 title: 2026-Mechatronics-Robot
 description: Autonomous driving robot design
 technologies: [Arduino]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/3780-robot.png
 ---
 
 Find all information in the pdf here:
